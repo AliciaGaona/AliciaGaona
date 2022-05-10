@@ -10,5 +10,7 @@
 
 About me:
 
- I’m Computer Stystems Engineer
+ I’m Computer Stystems Engineer 💻
+ 
+ I love to dance 💃
 
