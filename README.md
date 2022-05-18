@@ -1,4 +1,4 @@
-### Hi I’m Alicia Gaona 👋
+### Hi, I’m Alicia Gaona 👋
 
 
 - 🔭 I’m currently working on FrontEnd developer
