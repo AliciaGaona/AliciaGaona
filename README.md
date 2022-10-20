@@ -22,7 +22,7 @@ Hackaton LaunchX -  __EXPLORERS H2O__ 🐋
 [![Blog](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aliciagaona.github.io/my_launchx_blog/)
 
 
-[![Alice's GitHub ](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AliciaGaona/github-readme-stats)
+[![Alice's GitHub ](https://github-readme-stats.vercel.app/api?username=AliciaGaona)](https://github.com/AliciaGaona/github-readme-stats)
 
 
 
