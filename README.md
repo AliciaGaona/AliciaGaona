@@ -6,7 +6,7 @@
 - 📫 How to reach me: Css, HTML, bootstrap, MVC, Asp.net , web, Js, Angular
 
 
-![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliciaGaona&show_icons=true&theme=dark)
+![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliciaGaona&show_icons=true&theme=gruvbox)
 
 
 ### About me:
