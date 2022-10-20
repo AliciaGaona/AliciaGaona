@@ -6,16 +6,16 @@
 - 📫 How to reach me: Css, HTML, bootstrap, MVC, Asp.net , web, Js, Angular
 
 
-![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliciaGaona&show_icons=true&theme=tokyonight)
-
-
 ### About me:
 
  I’m Computer Stystems Engineer 💻
  
  I love to dance 💃
- 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaGaona)](https://github.com/anuraghazra/github-readme-stats)
+
+![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliciaGaona&show_icons=true&theme=tokyonight)
  
 Hackaton LaunchX -  __EXPLORERS H2O__ 🐋 
 
