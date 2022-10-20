@@ -24,6 +24,6 @@ Hackaton LaunchX -  __EXPLORERS H2O__ 🐋
 
 [![Alice's GitHub ](https://github-readme-stats.vercel.app/api?username=AliciaGaona)](https://github.com/AliciaGaona/github-readme-stats)
 
-
+![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliciaGaona&hide=contribs,prs)
 
 
