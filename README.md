@@ -15,6 +15,9 @@
  
  I love to dance 💃
  
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliciaGaona&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ 
 Hackaton LaunchX -  __EXPLORERS H2O__ 🐋 
 
 [EXPLORERS H2O](https://github.com/Elchicogamer117/savingouroceansfrtnd)
