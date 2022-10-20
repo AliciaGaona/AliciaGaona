@@ -11,13 +11,13 @@
  I’m Computer Stystems Engineer 💻
  
  I love to dance 💃
-
-
-![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliciaGaona&show_icons=true&theme=tokyonight)
  
 Hackaton LaunchX -  __EXPLORERS H2O__ 🐋 
 
 [EXPLORERS H2O](https://github.com/Elchicogamer117/savingouroceansfrtnd)
+
+
+![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliciaGaona&show_icons=true&theme=tokyonight)
 
 ## 🔗 Links
 
