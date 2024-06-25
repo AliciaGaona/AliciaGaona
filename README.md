@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on FrontEnd developer
-- 🌱 I’m currently learning backEnd NodeJS
+- 🌱 I’m currently learning backEnd NodeJS and React
 - 📫 How to reach me: Css, HTML, bootstrap, MVC, Asp.net , web, Js, Angular, jQuery, vb .net, C#, devextreme, SQL
 
 
