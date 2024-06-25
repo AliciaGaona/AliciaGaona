@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on FrontEnd developer
 - 🌱 I’m currently learning backEnd NodeJS
-- 📫 How to reach me: Css, HTML, bootstrap, MVC, Asp.net , web, Js, Angular
+- 📫 How to reach me: Css, HTML, bootstrap, MVC, Asp.net , web, Js, Angular, jQuery, vb .net, C#, devextreme, SQL
 
 
 ### About me:
