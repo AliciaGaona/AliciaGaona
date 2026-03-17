@@ -1,7 +1,7 @@
 ### Hi, I’m Alicia Gaona 👋
 
 
-- 🔭 I’m currently working on FrontEnd developer
+- 🔭 I’m currently working on full stack developer / Data Engineer.
 - 🌱 I’m currently learning backEnd NodeJS and React
 - 📫 How to reach me: C#, .NET / .NET Core, Visual Basic (VB), SQL Server, Python, JavaScript, Angular,Vue, React, HTML5, CSS, Bootstrap, Razor, DevExtreme, Jquery.
 - QA & Software lifecycle: Functional testing, validation of deliverables, acceptance criteria, collaboration with QA, software development life cycle, Scrum, SOLID, DRY/KISS, design patterns.
