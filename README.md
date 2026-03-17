@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on FrontEnd developer
 - 🌱 I’m currently learning backEnd NodeJS and React
-- 📫 How to reach me: Css, HTML, bootstrap, MVC, Asp.net , web, Js, Angular, jQuery, vb .net, C#, devextreme, SQL
+- 📫 How to reach me: C#, .NET / .NET Core, Visual Basic (VB), SQL Server, Python, JavaScript, Angular,Vue, React, HTML5, CSS, Bootstrap, Razor, DevExtreme, Jquery.
+- QA & Software lifecycle: Functional testing, validation of deliverables, acceptance criteria, collaboration with QA, software development life cycle, Scrum, SOLID, DRY/KISS, design patterns.
 
 
 ### About me:
